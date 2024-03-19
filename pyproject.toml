@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "owl2terminus"
+version = "0.1.0"
+description = ""
+license = "Apache 2.0"
+authors = ["Gavin Mendel-Gleason <gavin@terminusdb.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
